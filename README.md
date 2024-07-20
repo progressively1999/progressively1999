@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pragati-parmar-b8ba8525a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragati-parmar-b8ba8525a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" height="30" width="40" /></a>
-<a href="https://fb.com/pragati parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pragati parmar" height="30" width="40" /></a>
-<a href="https://instagram.com/pragati parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pragati parmar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pragati-parmar-b8ba8525a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragati-parmar-b8ba8525a" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=61557774063258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61557774063258" height="30" width="40" /></a>
+<a href="https://instagram.com/pro.gressively" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pro.gressively" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
