@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragati Parmar</h1>
+<h1 align="center">Hello 👋, I'm Pragati Parmar</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
 - 📫 How to reach me **parmarpragati410@gmail.com**
